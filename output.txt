@@ -1,0 +1,2 @@
+This text is redirected to the file.
+This text is displayed in the console.
